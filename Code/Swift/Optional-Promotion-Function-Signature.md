@@ -1,4 +1,4 @@
-#Promotion to Optionals in Function Signatures
+#Promotion to Optionals in Generic Functions
 
 Whenever possible Swift will promote an non-optional type to an optional one in order to match the type signature of a function.
 
