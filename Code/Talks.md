@@ -4,7 +4,9 @@
 	- Demonstrates how UIs are build from declarative descriptions that can be serialized 	
 - [Reverse Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/), SLUG 2015
 	- Awesome demo of reverse engineering techniques for iOS apps
-
+- [How not to build an iOS SDK](https://realm.io/news/altconf-conrad-kramer-writing-iOS-sdk/) 
+	- Nice Summary of iOS SDK best practices and anti-patterns
+	
 #CS 
 - [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8), Google Tech Talks, 2009
 	- Discusses a synchronization mechanism that's an alternative to Operational Transformation 
