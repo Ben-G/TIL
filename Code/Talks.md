@@ -22,3 +22,7 @@
 - [Conceptualizing Large Software Systems](http://www.thedotpost.com/2015/11/alan-shreve-conceptualizing-large-software-systems), dotGo, 2015
 	- Discusses techniques/tools to make large code bases more approachable / make it easier to understand code structure
 	- Uses Go test coverage + compiler tools to strip down relevant code based on test cases
+	
+#Tools
+
+- [Catastrophic Backtracking in Regex](https://vimeo.com/112065252), Stack Overflow Interal Talk, 2014
