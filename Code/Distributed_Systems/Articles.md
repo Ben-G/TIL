@@ -1,0 +1,3 @@
+- [Google Spanner Database Paper](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [Notes on Distributed Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+	- Collection of lessons learned on building & maintaining distributed systems 
