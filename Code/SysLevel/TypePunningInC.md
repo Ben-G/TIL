@@ -1,0 +1,1 @@
+Interesting read on how to abuse calling conventions to reorder arguments or pass a different number of arguments: http://www.evanmiller.org/type-punning-functions-in-c.html
