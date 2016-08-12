@@ -1,0 +1,1 @@
+Zero Cost Futures in Rust: http://aturon.github.io/blog/2016/08/11/futures/
