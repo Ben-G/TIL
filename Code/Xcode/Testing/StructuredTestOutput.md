@@ -1,0 +1,2 @@
+This blog post describes how Xcode 7 generates a plist with test results: http://michele.io/test-logs-in-xcode
+Related blog posts describes the tool `trainer` that converts this output to JUnit output: https://pspdfkit.com/blog/2016/converting-xcode-test-results-the-fast-way/
