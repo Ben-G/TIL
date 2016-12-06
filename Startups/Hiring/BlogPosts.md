@@ -1,4 +1,7 @@
 - Hiring at PSPDFKit: https://pspdfkit.com/blog/2016/hiring-a-distributed-team/
   - Special focus on remote teams 	
 - [Hiring Lemons, Dan Luu](http://danluu.com/hiring-lemons/)
-  - ​
+  - Assymetry of information in engineering hiring
+- Aaron Swartz on Hiring (currently my favorite post): http://www.aaronsw.com/weblog/hiring
+- Hiring is Broken and not worth fixing: http://www.daedtech.com/hiring-is-broken/
+  - Discusses that probably time invested in interviewing is not worth it; build good network instead
