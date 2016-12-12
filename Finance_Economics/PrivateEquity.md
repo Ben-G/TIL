@@ -1,0 +1,1 @@
+Great article by NYT about how Private Equity firms operate (looking at example of Hostess, the maker of Twinkies) and their impact on the economy and their shareholders: http://www.nytimes.com/2016/12/10/business/dealbook/how-the-twinkie-made-the-super-rich-even-richer.html?_r=0
