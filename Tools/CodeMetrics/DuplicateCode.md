@@ -5,5 +5,6 @@
 - Another tool for JS: https://github.com/danielstjules/jsinspect
   - Analyzes AST instead of using string matching
 - Also: [http://www.harukizaemon.com/simian/](http://www.harukizaemon.com/simian/)
+- Theoretical Foundation: [https://en.wikipedia.org/wiki/Duplicate_code#Detecting_duplicate_code](https://en.wikipedia.org/wiki/Duplicate_code#Detecting_duplicate_code)
 
 
