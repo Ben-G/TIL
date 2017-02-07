@@ -1,0 +1,1 @@
+Unoffical guide to xcconfig: https://pewpewthespells.com/blog/xcconfig_guide.html
