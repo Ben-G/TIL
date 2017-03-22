@@ -9,3 +9,4 @@
   - Build strongest teams with most A players for mission critical projects
   - Then reward team performance instead of individual performance
   - Blog post points out that Google/Apple, etc. have similar % of top performers, but they are more likely to concentrate these in specific teams that are especially important
+- [How Netflix re-invented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
