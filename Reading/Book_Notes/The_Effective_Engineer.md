@@ -38,7 +38,8 @@ Notes on "The Effective Engineer".
 - Tamar Bercovici of Box recommends new hires to "own their story"
   - Didn't have full-time dev job before joining Box
   - Ended up leading distributed data team within 2 yrs
-  - *Even if background is not perfect fit for current job; you will have learnt relevant skills; selling "your story" & growth mindest become more important in that case* 
+  - *Even if background is not perfect fit for current job; you can learn relevant skills quickly; growth mindest is important in that case*
+  - *"It’s not about apologizing for where your resume doesn’t line up but rather telling your story—who you are, what skills you’ve built, what you’re excited about doing next and why,"*
 - Reid Hoffman recommendation from *Startup of You*:
   - Treat yourself like startup; early on prioritize learning over profability
 - Seek fast growth environments for learning
@@ -115,7 +116,7 @@ Notes on "The Effective Engineer".
     - Maximize impact
     - Are actionable
       - I.e. changes in metric can be direcly tied to changes in product 
-    - Are response, yet robust
+    - Are responsive, yet robust
       - Responsive: updates quickly enoug to give feedback on whether a change was positive or negative
       - Robust: things outside of team's control should not lead to a lot of noise in the metric
 - Without metrics; we can only guess what is wrong with software. Should measure performance and other key metrics and make them visible to team in form of dashboards.
@@ -129,6 +130,26 @@ Notes on "The Effective Engineer".
 *Always try to tie your work back to metric changes. Invest in collecting reliable data, make it easy to evaluate it.*
 
 ## Chapter 6: Validate Your Ideas Early
+
+- Main lesson learned from *Cuil* search engine:
+  - Validate idea earlier. Because of fear of leaking details there was no external feedback on the product. Product failed - even though it was technically solid (apparently faster indexing capability than Google) it lacked a lot of features users were expecting (e.g. spelling correction).
+- What is scariest part of the product, with most risk, *do that part first* (Zach Brok, eng manager at Square)
+  - *This has been my philosophy too. By first tackling core of problem it becomes easier to adjust plan/timeline etc. down the line. It also allows as quickly as possible to prove that what you're trying to do is possible which is very motivating. After solving the hardest problem; the rest is just polish.*
+- Dropbox first product was a video of the MVP; where  a lot of functionality was faked. But it allowed validating that people would be interested in the product.
+- **Spend 10% of effort to build prototypes to validate ideas.**
+  - *Think prototyping is still undervalued, because it feels unproductive. But findings from prototypes can easily be big enough to make up for throwing away the prototype afterwards.*
+- 42 Floors spent **3 months** making a major "improvement" to their core site; but it **didn't move any of the expected metrics**. Then they used a trick; running ads to direct people to a fake version of the website with only static HTML pages to quickly validate 8 potential redesigns. Implemented winning design and got the metrics they expected.
+- Asana faked Google Signup integration; just presented a "Thanks for your interest - the feature is coming soon" dialog when users tapped.
+- Well know advice: A/B tests to prove hypothesis; often our assumptions are wrong
+- Try to always work in teams of at least 2 engineers; this way you are validating your ideas constantly.
+- Write design documents to validate larger code changes (example of investing 10% of effort to get insights), this also ensures you have buy in for controversial changes before you invest too much time building them.
+- *“It applies to recruiting. It applies to team design. It applies to how you build your culture. It applies to your compensation structure,” Hoofien explained. “Any decision you make … should have a feedback loop for it. Otherwise, you’re just … guessing.”*  (Hoofien, Director of Engineering at Facebook)
+  - Hoofien ran many experiments for a few weeks (e.g. should tech leads be managers? -> yes, should bonuses be tied to metrics? -> first liked; then rolled back) and validated results; often just by talking to people.
+- *"regardless of whether we engineers are writing code, creating a product, or managing teams, the methodology of how to make decisions remains the same. And at its core, the willingness to run experiments demonstrates the scientific method at work."*
+
+*Try to find clever ways to invest a small amount of time for a large amount of insight/validation.*
+
+## Chapter 7: Improve Project Estimation Skills
 
 TBD
 
