@@ -95,7 +95,7 @@ Notes on "The Effective Engineer".
   - *IMO unit tests can be a great way to accomplish this.*
 - Get familiar with UNIX shell commands
   - grep, sort, uniq, wc, awk, sed, xargs, find
-  - Need to definitely improve on this one...*
+  - *Need to definitely improve on this one...*
 - More iteration speed ideas:
   - Test ideas in interpreter (Swift playgrounds are good for this, also for prototyping UI)
   - Make it easy to run only unit tests affecting relevant to code changes
