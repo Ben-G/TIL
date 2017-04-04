@@ -1,5 +1,7 @@
 # Client-Server Sync: An Unsolved Problem?
 
+*More formally known as: Data Replication*
+
 Some notes on various resources I've looked at to come up with solutions for client-server based sync.
 
 Generally came across 2 traditional approaches:
@@ -10,20 +12,21 @@ Generally came across 2 traditional approaches:
 **There are papers discussing interesting alternative solutions:**
 
 - Differential Sync:
-	- https://neil.fraser.name/writing/sync/
-	- http://codebrief.com/2013/08/client-sync-for-the-rest-of-us/  
-- Conflict free, replicated data types:
-	- https://hal.inria.fr/file/index/docid/617341/filename/RR-7687.pdf (Need to read) 
-	
-	
+ - https://neil.fraser.name/writing/sync/
+ - http://codebrief.com/2013/08/client-sync-for-the-rest-of-us/  
+- Conflict free, replicated data types (CRDTs):
+ - https://hal.inria.fr/file/index/docid/617341/filename/RR-7687.pdf 
+ - https://github.com/papers-we-love/papers-we-love/blob/master/data_replication/a-comprehensive-study-of-convergent-and-communative-replicated-data-types.pdf
+- Discussion of Union of CRDTs and Operational Transformation:
+  - https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f
 **Related papers:**
 
 - RING: A Client-Server System for Multi User Virtual Environments
-	- Visibility computation for multi-client systems; should be applicable to general software development
-	- http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/RING.pdf (Need to read)
-	
-	
-	
+ - Visibility computation for multi-client systems; should be applicable to general software development
+ - http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/RING.pdf (Need to read)
+
+
+ ​
 ---
 
 Notes on implementing a sync mechnanism based on above ideas:
@@ -41,8 +44,7 @@ Throughout this document we will refer to these two approaches as following:
 
 The following sections will discuss these approaches in detail.
 
-**Approach 1: Event Sync
-**
+**Approach 1: Event Sync**
 In my current prototype client and server transform data through defined Operations. E.g. AddAnnotation, ChangeUsername, etc. 
 
 Each mutation is represented by one of these operations. 
@@ -106,7 +108,6 @@ https://github.com/Ben-G/OT-Sync-Prototype/blob/master/OperationalTransformDemo.
 
 
 
-	
+​	
 
 
- 
