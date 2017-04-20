@@ -52,17 +52,29 @@ His idea of ideal money system:
 
 - Capitalization Quotas of Banks in the UK: http://www.voxeu.org/article/how-much-equity-capital-should-uk-banks-have
 - Government Debt in the US extremely high when measuered against tax revenue: 
-	- http://www.forbes.com/forbes/welcome/#57d7d9596e0c
-	- http://www.visualcapitalist.com/by-this-measure-the-u-s-has-the-2nd-highest-national-debt/
-	- http://www.politifact.com/wisconsin/statements/2013/sep/15/chris-kapanga/interest-payments-us-debt-exceeds-us-tax-revenue-w/
+- http://www.forbes.com/forbes/welcome/#57d7d9596e0c
+- http://www.visualcapitalist.com/by-this-measure-the-u-s-has-the-2nd-highest-national-debt/
+- http://www.politifact.com/wisconsin/statements/2013/sep/15/chris-kapanga/interest-payments-us-debt-exceeds-us-tax-revenue-w/
 - On QE
-	- How QE works: http://positivemoney.org/how-money-works/advanced/how-quantitative-easing-works/
-	- http://www.economist.com/blogs/economist-explains/2015/03/economist-explains-5
-	- Assets acquired through QE have generated half a trillion $ in revenue for US Treasury: https://www.aei.org/publication/since-2009-feds-qe-purchases-transferred-almost-half-trillion-dollars-treasury-isnt-gigantic-wealth-transfer/
+- How QE works: http://positivemoney.org/how-money-works/advanced/how-quantitative-easing-works/
+- http://www.economist.com/blogs/economist-explains/2015/03/economist-explains-5
+- Assets acquired through QE have generated half a trillion $ in revenue for US Treasury: https://www.aei.org/publication/since-2009-feds-qe-purchases-transferred-almost-half-trillion-dollars-treasury-isnt-gigantic-wealth-transfer/
 - Impact of rate hike (post 0%) on us economy: http://www.bloomberg.com/news/articles/2015-09-16/qe-s-cost-fed-exit-may-hit-economy-faster-than-in-past-cycles
 - Article on how fed rates are "implemented": https://en.wikipedia.org/wiki/Federal_funds_rate
-	- https://en.wikipedia.org/wiki/Open_market_operation 
+- https://en.wikipedia.org/wiki/Open_market_operation 
 - Interest payments by the Federal Reserve on Excess Reserves: http://www.frbsf.org/education/publications/doctor-econ/2013/march/federal-reserve-interest-balances-reserves/
 - German articles on federal rates:
-	- https://de.wikipedia.org/wiki/Leitzins 
-	- https://de.wikipedia.org/wiki/Federal_Funds_Rate 	
+- https://de.wikipedia.org/wiki/Leitzins 
+  - https://de.wikipedia.org/wiki/Federal_Funds_Rate 
+
+
+
+## More on QE and Quantity of Money
+
+- April 2017, Economist, [Why the Federal Reserve should keep its balance-sheet large](http://www.economist.com/news/finance-and-economics/21720601-abundance-money-enhances-economic-efficiency-and-financial-stability-why)
+ - Related:
+  - [How will the Fed shrink it's balance sheet?](http://www.investopedia.com/insights/how-will-fed-reduce-balance-sheet/)
+    - Either sell securities (less likely) or by not re-investing when securities mature.
+  - [Why didn't QE cause hyperinflation?](http://www.investopedia.com/articles/investing/022615/why-didnt-quantitative-easing-lead-hyperinflation.asp)
+
+
