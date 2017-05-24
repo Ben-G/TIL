@@ -1,0 +1,3 @@
+- Seed Investment Platforms:
+  - [https://www.seedrs.com/](https://www.seedrs.com/)
+  - https://www.seedinvest.com
