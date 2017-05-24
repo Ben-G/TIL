@@ -1,0 +1,2 @@
+- https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/
+  - Interesting read, actually mostly because of demistifcation of the tulip bubble.
