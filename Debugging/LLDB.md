@@ -59,6 +59,14 @@ p *(AnnotationView *)(0x7feed16dc530)
     _layerRetained = 0x000060800043c200
  [...]
 }
-
 ```
 
+
+
+## Print Registers
+
+```
+(lldb) register read
+```
+
+http://www.enharmonichq.com/tutorial-ios-reverse-engineering-lldb/
