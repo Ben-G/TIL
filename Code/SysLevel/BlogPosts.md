@@ -1,1 +1,3 @@
 - Malloc vs. calloc:https://vorpus.org/blog/why-does-calloc-exist/
+- [Generating executable files from scratch](https://github.com/cameronswinoga/yabfc/wiki/Generating-executable-files-from-scratch)
+  - Status: need to read!
