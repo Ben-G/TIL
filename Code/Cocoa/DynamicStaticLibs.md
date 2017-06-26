@@ -1,0 +1,2 @@
+- Reducing App Launch Time with Static Libraries:
+  - https://blog.automatic.com/how-we-cut-our-ios-apps-launch-time-in-half-with-this-one-cool-trick-7aca2011e2ea
