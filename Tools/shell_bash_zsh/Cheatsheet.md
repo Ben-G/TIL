@@ -1,0 +1,2 @@
+- https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
+  - *grt* cd $(git rev-parse --show-toplevel || echo ".")
