@@ -19,3 +19,15 @@ Ensure that the dependent target is always built before the project that imports
 This should work by default; but it's important that the path of the imported build product is `Relative to Build Products`. This will avoid references to absolute file paths in the Xcode project file.
 
 ![](EnsureBuildProductPath.png)
+
+**Copy Frameworks**
+
+If the tests depends on Frameworks these need to be copied as part of the test target's build phase:
+
+![](Copy_Dependency_Frameworks.png)
+
+It's a little unclear to me whether or not this step is actually necessary; there are some related discussions in the carthage repo:
+
+- [Here](https://github.com/Carthage/Carthage/issues/635)
+- [And here](https://github.com/Carthage/Carthage/issues/1615#issuecomment-281676402)
+
