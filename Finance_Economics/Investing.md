@@ -4,4 +4,3 @@
   - *For companies listed on U.S. stock exchanges, the SEC requires that all but the smallest of microcaps that trade on the over-the-counter boards have to report insider transactions within two business days. First, they must file the SEC’s Form-3 at initial ownership, SEC Form-4 whenever any changes take place, and the SEC Form-5 for any changes that were not reported earlier or were eligible for deferment.*
   - E.g. [Marketbeat](https://www.marketbeat.com/stocks/NYSE/NEWR/?RegistrationCode=SocialMedia-direct&DefaultTab=Insider&utm_source=GeneralSocialMedia&utm_medium=Social) provides this data.
 
-
