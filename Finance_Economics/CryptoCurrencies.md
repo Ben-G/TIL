@@ -1,4 +1,0 @@
-- https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/
-  - Interesting read, actually mostly because of demistifcation of the tulip bubble.
-- [How does the blockchain work?](https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae)
-  - Semi-technical discussion of the blockchain

@@ -1,0 +1,9 @@
+- https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/
+  - Interesting read, actually mostly because of demistifcation of the tulip bubble.
+- [How does the blockchain work?](https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae)
+  - Semi-technical discussion of the blockchain
+- [Economist: If blockchains ran the world](https://www.economist.com/news/world-if/21724906-trust-business-little-noticed-huge-startups-deploying-blockchain-technology-threaten)
+  - Outlines how various organizations and business could be automated via smart contracts on blockchains
+  - Discusses how blockchains are tried today in some governments for record keeping
+  - Adresses privacy concerns: points to the fact that it's better if data is owned collectively rather than by individual coorporations.
+  - Could be direct threat to business model of many companies: Facebook, Amazon, Google, rely heavily on a monopoly on data of their users/customers.
