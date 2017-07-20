@@ -1,0 +1,7 @@
+- https://amplitude.com/blog/2016/08/11/3-ways-measure-user-retention/
+  - **N-Day Retention**
+    - How many users came back on a specific day after initial event?
+    - Relevant for products that rely on daily engagement
+  - **Unbdounded Retention**
+    - How many cam back on day N or after?
+    - Inverse of churn

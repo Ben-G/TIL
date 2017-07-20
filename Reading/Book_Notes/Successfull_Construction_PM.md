@@ -103,3 +103,35 @@
 - **Prepare a project plan** that combines tasks, milestones, staffing, materials
 - Mobilisation checklist (ensure staff is available and first tasks are lined up) 
 - Risk review, reviewed at least bi-monthly, contains major risks and mitigations
+
+
+
+## Chapter 2 - Starting the Project
+
+- Careful not to focus too much on first milestone and instead think a lot about planning that's required
+- Top priority: set up office with power & internet
+- Plan site for future expansion; avoid having to move office in order to bring in large equipment
+- Focus on setting up site for safety (signage, tool storage, etc.)
+- Issue Welcome packs with basic info to workers
+- Project Induction/Briefing for each team member
+- Project Manager should go over rules and responsibilities on the site for each new staff
+- Consider all site setup steps:
+  - Set up Site Hours, Accomodation, Transportation, Fencing and Security, Parking Areas
+  - Traffic diversions and road closures if necessary
+  - Stormwater drainage to protect laydown area, offices and access routes from flooding
+  - Signage/postings/lighting
+- **Set up Document Control System**
+  - On large project, separate document control person
+  - Set up correspondence registers and maintain them
+  - Staff should be allocated to track documentaiton progress, to ensure it isn't a blockers
+- **Preconstruction Survey and Photographs**
+  - If working close to existing structures; do a pre-construction survey to capture state of them before construction begins
+    - Create report from these photos and hand to clients
+- **Accepting Handover of Work Areas**
+  - Before starting work, ensure the work area you're receiving is in state specified in contract
+  - Record handover date, state of work area + survey photos
+- **Survey and setting-out**
+  - Information on where to start building new structure should be provided by client
+  - Ensure exact location and elevation is known before setting out new structure
+  - *Nice anecdoate of using prefab wall panels for a casino, where it later turned out they didn't fit due to incorrect size information. Contractor had confused inside edge of brick wall with outside edge, resulting in room that was too small.*
+- Set up communication channels between all stakeholders
