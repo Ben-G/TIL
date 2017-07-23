@@ -1,0 +1,3 @@
+- [AirBnB changes to Buck that enable usage in mixed-language projects](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56)
+  - Includes a sample project that can be downloaded
+  - Currently AirBnb uses Xcode for local development and Buck in CI
