@@ -135,3 +135,35 @@
   - Ensure exact location and elevation is known before setting out new structure
   - *Nice anecdoate of using prefab wall panels for a casino, where it later turned out they didn't fit due to incorrect size information. Contractor had confused inside edge of brick wall with outside edge, resulting in room that was too small.*
 - Set up communication channels between all stakeholders
+
+## Chapter 3 - Scheduling
+
+- Case study: new gas power station schedule
+ - Schedule viewed all different structures and services in isolation and scheduled them as if they were stand-alone entities
+   - Delay on one structure did not cause a delay on a dependent structure in the schedule
+   - Congested areas were not taken into account
+   - Should have been obvious that not all that work could happen easily in parallel yet "even the best scheduling software was not going to show this interface. You can't just depend on a computer generated bar chart to show how a structure should be constructed."
+   - Rough cross-sectional drawings can be most useful technique to understand dependencies
+ - *Access* can be a significant problem on many job sites and needs to be considered in the schedule
+ - Wrong milestones were set in the schedule, causing bad incentives (turbines installed too early, limiting access, installation itself was disruptive and unnecessary at that point in time)
+   - This seems to happen frequently in experience of the author
+ - Coordination with other contractors is also often required for access to the site; interface between contractors is essential part of the schedule
+ - **Schedule was too detailed**, staff didn't care about looking things up in complicated schedule, so instead just created their own.
+- Schedule might be created by the PM or a dedicated planner
+- Can be super simple hand-written or using specialized scheduling software
+- Schedule needs to consider:
+  - Staffing, material, equipment, lead time for procurement, allow for weather, specific environmental requirements (e.g. reduced work hours due to noise), clearly identify activities, detailled enough to allow progress monitoring, linked relationships, activity for completion of punch list items, clear milestone dates
+  - Each activity should have duration
+- Resource leveling is important to ensure a similar amount of staff is used throughout wide parts of the project
+- Be aware of long-lead time items
+- Critical path is most important (same as for all PM)
+- Contract schedule needs to be approved as soon as possible after receiving contract documents
+- S-curves and histograms are useful tools to measure progress
+- Schedules are often not kept up to date
+- Author likes to do weekly non-technical review of schedule, where he uses pen and paper to mark items that are behind/ahead of schedule
+- Even if schedule is kept up to date, **often PMs and other team members don't understand the schedule date** (this is where it seems technology could come in...)
+- Many PMs are not good at communicating relevant part of schedule to relevant ppl
+- Author recommends hiding float from customers, to keep that time as buffer. Contractor should also clearly state in contract that float belongs to them
+- Variations of schedule that are due to client need to be kept track off (e.g. info missing)
+- Revised schedules need to be re-approved
+
