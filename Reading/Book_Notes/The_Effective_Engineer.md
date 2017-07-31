@@ -151,7 +151,49 @@ Notes on "The Effective Engineer".
 
 ## Chapter 7: Improve Project Estimation Skills
 
-TBD
+- Example of rewriting the video player at Ooyala; hoped for it to take 4 months; ended up taking 9 months. Better estimation had lead to different decision than rewriting.
+- *“Windows Vista slipped behind by over 3 years. 3 4 Netscape 5.0 slipped by 2 years, and the browser saw its market share plummet from 80% to 20%.”*
+- *“Avoid committing to an initial number before actually outlining the tasks involved, as a low estimate can set an initial anchor that makes it hard to establish a more accurate estimate later on.”*
+- Use historical data to assess accuracy of past estimates (requires keeping track of actual amount of time it took)
+- Recommends tracking time spent on tasks that were not accounted for, in order to build awareness 
+- **Well defined goals for projects are key in separating must-haves from nice-to-haves**
+  - *Cutting down scope by focusing solely on must-haves is a critical skill in my experience*
+- *“In the middle of a long project, it’s easy for someone to disappear down a rabbit hole for a week, rewriting some code library or building a partially-related feature. From the perspective of each individual engineer, taking a small detour won’t slow the schedule down that much, and tasks like cleaning up the codebase may even reduce work in the long-term. **Many of the benefits from local engineering tradeoffs, however, don’t materialize until after the project finishes, whereas increasing the total work inside a project’s time window introduces delays.** The costs of these delays depend on the project, and building alignment helps ensure that team members internalize those costs and make consistent tradeoffs”*
+- Define measurable milestones for each project to track progress
+  - *Always do this in form of a lightweight spec*
+- **Buid end-to-end prototypes before larger projects to reduce risk**
+  - *Another essential step in my experience; estimations are a lot easier once many steps of a project have been proven feasible through prototypes.*
+
+- **On Rewrites:**
+
+  - Rewrite projects should mostly be avoided; they are incredibly risky from both a timeline and quality perspective
+  - *“Because we tend to be familiar with the original version, we typically underestimate rewrite projects more drastically than we would an undertaking in a new area”**
+  - *“When a rewrite is ongoing, any new features or improvements must either be added to the rewritten version (in which case they won’t launch until the rewrite completes) or they must be duplicated across the existing version and the new version (in order to get the feature or improvement out sooner). The cost of either option grows with the timeline of the project.”*
+  - Risk of "second system" being overdesigned (idea stems for "The Mythical Man Month")
+  - Good example: Google Docs acquisition. Startup had written all code in C#; needed to be moved to Java for Google. They strictly seperated the necessary language translation step from any other improvements to the codebase in order to avoid scope creep.
+  - Sprinting when behind deadlines is seldom a good idea; if project is overtime working crazy hours will seldom lead to better results. Instead you will, among other things, incur technical debt towards the end of the project defeating the purpose of a project that was started to improve the foundation of the codebase
+
+*Start with the riskiest parts of large projects first, ideally by prototyping. Define clear goals and measurable milestones for projects (what's in,whats' out?). Approach rewrites with extreme caution.*
+
+## Chapter 8: Balance Quality with Pragmatism
+
+- You must move quickly to build good software (reacting to user needs); and you most build quality software to move quickly
+- Pair programming can be a good alternative to code reviews
+  - *In deed; have practiced this is a lot in the past!*
+- Build abstractions and libraries in order to move faster; but focus on core abstractions. 
+  - *If it wouldn't be used in at least 3 places in your codebase it's probably not worth building*
+  - *I'd add that it's a lot better to build abstractions after patterns in your codebase have emerged, instead of building abstractions in anticipation of future use cases*
+- In order to learn how to build compelling APIs and abstractions, reflect on APIs you and the community don't like and try to understand why that's the case.
+  - *Also think that this is a great interview question!*
+- Automate testing; and use opportunity to use tests as documentation of your code
+- Provide time to pay back tech-debt
+  - *I like to incorporate this in new projects + an ongoing weekly time budget (currently every Friday; though it's optional and participation rate is usually ~50%) for fixing simple user issues and devtools/tech debt.*
+
+*Nothing incredibly new in this chapter; review code, pair program, automate testing, invest in abstractions, pay back tech debt.*
+
+## Chapter 9: Minimize Operational Burden
+
+
 
 # Conclusion
 
