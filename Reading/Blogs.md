@@ -10,6 +10,8 @@ Technology/Business:
 
   - > I recommend Raymond Chen's blog, *The Old New Thing*, for some cool stories about how and why ancient Windows/Office components were written a certain way, and what the effects down the line have been. Among other things.
 
+- Axios: www.axios.com
+
 
 
 
