@@ -1,0 +1,11 @@
+- Spanner started out as Key-Value store; focused on availability and replication
+- now turning into full DBMS with support for StandardSQL
+- "Given the distributed nature of data storage in Spanner, the query processor is itself distributed and uses standard optimization techniques"
+- Like the lower storage and transactional layers, Spanner’s query processor is built to serve a mix of transactional and analytical workloads, and to support both low-latency and long-running queries (OLTP/OLAP)
+
+spanner overview
+
+- Spanner is a sharded, geo-replicated relational database system. A database is horizontally row-range sharded. Within a data center,shards are distributed across multiple servers. Shards are then repli-cated to multiple, geographically separated datacenters.
+- All transactions that involve data in a particular group write to a logical Paxos write-ahead log, which means each log entry is committed by successfully replicating it to a quorum of replicas. Our imple- mentation uses a form of Multi-Paxos, in which a single long-lived leader is elected and can commit multiple log entries in parallel, to achieve high throughput. Because Paxos can make progress as long as a majority of replicas are up, we achieve high availability despite server, network and data center failures (https://en.wikipedia.org/wiki/Paxos_(computer_science)#Multi-Paxos) **(TODO read Paxos Made Simple)**
+- **Stale reads** choose a timestamp in the past to increase the chance that the nearby replica is caught up enough to serve the read. Replicas retain several previous data versions to be able to serve stale reads. **Strong reads** see the effects of all previously committed transactions; to ensure this we choose a read timestamp guaranteed to be greater than the commit timestamp of all possible previous transactions. Strong reads may have to wait for the nearby replica to become fully caught up, or may retry at a further away replica that may be more up-to-date.
+- The coprocessor framework determines which Paxos group (or groups) owns the data being addressed, and finds the nearest replica of that group that is sufficiently up-to-date for the specified concurrency mode.
