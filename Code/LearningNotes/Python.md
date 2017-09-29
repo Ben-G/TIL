@@ -45,3 +45,42 @@
     > [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
     > ```
 
+  - List comprehensions can be nested; good replacement for nested loops
+
+    - ```python
+      matrix = [
+          [1, 2, 3, 4],
+          [5, 6, 7, 8],
+          [9, 10, 11, 12]
+      ]
+
+      # Iterate over columns (0-3); for each column iterate over the rows.
+      print([[row[i] for row in matrix] for i in range(4)])
+      ```
+
+    - Nested expressions is executed in context of outer expression
+
+      - ```python
+        >>> transposed = []
+        >>> for i in range(4):
+        ...     transposed.append([row[i] for row in matrix])
+        ...
+        >>> transposed
+        [[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]
+        ```
+
+- `del` can be used to delete list entries and even entire variables
+
+- Tuples are immutable. Values can be accessed by index. Tuples can be created without parantheses.
+
+  - Named tuples can be created via the `namedtuple` type. Allows giving tuple members names.
+  - Single tuples need comma after first and only value
+  - Tuple unpacking is supported, too. No parenthesis required.
+
+- Use `in` / `not in` to check membership of keys in `Dictionaries`
+
+- `items()` allows iterating over key-value pairs
+
+- `enumerate` allows iterating with index
+
+- `is` / `is not` can be used to compare object identify; equivalent to `===` in Swift
