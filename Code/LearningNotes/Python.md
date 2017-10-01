@@ -18,13 +18,13 @@
 
 - Opposite can be done with *unpacking* tuples/lists into an argument list:
 
-  - ```python
+   ```python
     >>> list(range(3, 6))            # normal call with separate arguments
     [3, 4, 5]
     >>> args = [3, 6]
     >>> list(range(*args))            # call with arguments unpacked from a list
     [3, 4, 5]
-    ```
+   ```
 
 - `lamdba`s are restricted to a single expression
 
@@ -84,3 +84,33 @@
 - `enumerate` allows iterating with index
 
 - `is` / `is not` can be used to compare object identify; equivalent to `===` in Swift
+
+- Boolean expressions return last evaluated argument
+
+
+
+- `str()` provides human-readable description of a value; `repr()` returns description intended for interpreter
+
+  - More on `repr()`
+
+    > Return a string containing a printable representation of an object. For many types, this function makes an attempt to return a string that would yield an object with the same value when passed to [`eval()`](https://docs.python.org/3/library/functions.html#eval), otherwise the representation is a string enclosed in angle brackets that contains the name of the type of the object together with additional information often including the name and address of the object. A class can control what this function returns for its instances by defining a [`__repr__()`](https://docs.python.org/3/reference/datamodel.html#object.__repr__) method.
+
+- `.format()` allows for positional and keyword arguments
+
+  ```python
+  print('The story of {0}, {1}, and {other}.'.format('Bill', 'Manfred',
+                                                         other='Georg'))
+  ```
+
+
+
+
+- Exception handling notes:
+
+  - >  If an exception occurs during execution of the try clause, the rest of the clause is skipped. Then if its type matches the exception named after the [`except`](https://docs.python.org/3/reference/compound_stmts.html#except) keyword, the except clause is executed, and then execution continues after the [`try`](https://docs.python.org/3/reference/compound_stmts.html#try) statement.
+
+  - >  If an exception occurs which does not match the exception named in the except clause, it is passed on to outer [`try`](https://docs.python.org/3/reference/compound_stmts.html#try) statements; if no handler is found, it is an *unhandled exception* and execution stops with a message as shown above.
+
+  - Avoid catch-all's, unless you just plan to log and re-raise
+
+  - `else` can be added after `try`/`except` and will only run if no exception was raised in `try` clause
