@@ -122,6 +122,8 @@ More articles:
 - https://www.w3.org/DesignIssues/Diff
 - https://www.linkedin.com/pulse/client-server-sync-algorithm-using-objects-diff-patch-kumar-krishna/
   - Relies on server shadow for each client...
+- https://wiki.mozilla.org/Identity/CryptoIdeas/04-Delta-Sync
+  - Pretty complete description of bookmark sync for browser
 
 
 
