@@ -19,7 +19,7 @@ Generally came across 2 traditional approaches:
  - https://github.com/papers-we-love/papers-we-love/blob/master/data_replication/a-comprehensive-study-of-convergent-and-communative-replicated-data-types.pdf
 - Discussion of Union of CRDTs and Operational Transformation:
   - https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f
-**Related papers:**
+    **Related papers:**
 
 - RING: A Client-Server System for Multi User Virtual Environments
  - Visibility computation for multi-client systems; should be applicable to general software development
@@ -106,8 +106,23 @@ https://github.com/Ben-G/OT-Sync-Prototype/blob/master/OperationalTransformDemo.
     * Discussing permission details is outside the scope of this doc. We should be possible to use the containers approach currently in use for Field Reports. We can use a similar sequence number / commit log scheme
 
 
+----
+
+Client-server-sync at Trello:
+
+http://tech.trello.com/sync-architecture/
+
+Building high-traffic news feeds:
+
+http://highscalability.com/blog/2013/10/28/design-decisions-for-scaling-your-high-traffic-feeds.html
+
+More articles:
+
+- https://www.objc.io/issues/10-syncing-data/data-synchronization/
+- https://www.w3.org/DesignIssues/Diff
+- https://www.linkedin.com/pulse/client-server-sync-algorithm-using-objects-diff-patch-kumar-krishna/
+  - Relies on server shadow for each client...
 
 
-​	
 
 
