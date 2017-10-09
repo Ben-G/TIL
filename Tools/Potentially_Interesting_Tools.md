@@ -1,0 +1,1 @@
+PopSQL: Collaborative Query bulding: https://popsql.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn

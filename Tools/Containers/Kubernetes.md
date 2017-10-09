@@ -1,0 +1,1 @@
+Good intro to Kubernetes by Julia Evans: https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/

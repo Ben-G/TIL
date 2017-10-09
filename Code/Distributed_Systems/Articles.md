@@ -1,3 +1,6 @@
 - [Google Spanner Database Paper](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [Notes on Distributed Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-	- Collection of lessons learned on building & maintaining distributed systems 
+  - Collection of lessons learned on building & maintaining distributed systems 
+- [[2012] Multi-level Cache with Memcached at FB](https://www.scribd.com/doc/4069180/Caching-Performance-Lessons-from-Facebook)
+  - Demonstrates usage of memcached, PHP in-memory cache and MySQL
+  - Use helper functions to dirty the cache as needed

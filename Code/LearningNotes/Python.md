@@ -253,12 +253,19 @@ Notes on basic python tutorial: https://docs.python.org/3/tutorial/
 
 
 
+**Not covered?**
 
+- **Decorators**
+- **Mixins**
+- **Coroutines**
 
+Will handle separately...
 
+----
 
-Not covered?
-
-- Decorators
-- Mixins
-- Coroutines
+- Decorator is just syntactic sugar for passing decorated function as first argument to the decorator and replacing the decorated function with whatever the decorator returns
+- Decorators are run as soon as module is loaded; then executed immediately once for every decorated function
+  - Difference between *import time* (decorators run) and *runtime* (decorated functions run)
+- While decorators are mostly used to wrap decorated functions; pure registry-based decorators can be built as well; they allow to track all function references that are decorated
+- Aside: `__call__` allows calling instances as if they were functions
+- Aside: disassembling python bytecode looks interesting!
