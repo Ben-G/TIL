@@ -1,0 +1,1 @@
+https://stripe.com/atlas/guides/starting-sales
