@@ -1,0 +1,1 @@
+Story of how Canny (better user feedback for products) got of the ground: https://blog.canny.io/saas-startup-ramen-profitability/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav&utm_source=Hacker+Newsletter&utm_campaign=b91881aad0-EMAIL_CAMPAIGN_2017_10_27&utm_medium=email&utm_term=0_e505c88a2e-b91881aad0-398549465
