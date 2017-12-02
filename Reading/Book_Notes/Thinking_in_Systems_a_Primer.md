@@ -1,5 +1,15 @@
 ### Key takeaways
 
+- A systems consists of three parts: *elements*, *interconnections*, *function (purpose)*. Almost everything is a system, except for collection of unconnected pieces without any function (sand scattered on the road by happenstance).
+- Systems thinking offers an alternative to reductionist thinking; it focuses on elements, interconnections and functions, allowing answering questions that cannot be answered with reductionist thinking (a behavior of a system cannot be understood simply by understanding all of its parts, an understanding of connections is required).
+- Replacing the elements in a system usually has the smallest impact on the system's behavior. Its functions and interconnections are a lot more important in defining its behavior. The exception are the few critical elements that can change the design of the system itself (e.g. executives in a company).
+- A system's purpose is usually the most important ingredient. Changing the purpose without changing elements and functions can have huge impact on behavior of the system.
+- Systems cause their own behavior to a large extent (not external factors). E.g. the economic system inherently causes boom and bust cycles on which politicians only have a limited impact (reductionist thinking usually leads us to believe that behavior of the economy is an effect that has its cause in political activity).
+- Timely and accurate information flow within a system are critical for good decision making processes. Most system failures can be attributed to the lack of timely and accurate information.
+- Certain types of problems (systemic problems) require system thinking in order to fix them. Today system thinking isn't applied to nearly enough problems.
+
+### Extended takeaways
+
 - Reductionist vs systems thinking:
   - Reductionist focused on bottom up thinking; looking at causes and effects, focusing on small understandable pieces (e.g. rules of physics)
   - Systems thinking operates on a higher level, understanding relationships between different stocks and flows. It allows exploring interconnections that cannot be looked at through a reductionist way of thinking (a behavior of a system cannot be understood simply by understanding all of its parts, an understanding of connections is required).
@@ -13,7 +23,6 @@
   - Systems have three key characteristics: resilience (a system bounces back into is original shape after changes up to a certain limit), self-organization (capacity of a system to change its own structure; e.g. evolution), hierarchy (composition of simple systems into a more complex one; reducing amount of information each system needs to be concerned with)
 - Timely and accurate information flow within a system are critical for good decision making processes
 - The two key elements for describing systems are diagrams that describe structure and time graphs that describe behavior
-- Systems usually determine the how an organization functions, not individual members. Only members that can change the system can fundamentally change how an organization works (these are typically the members at the top of the system). Replacing a member of a system without change the system will likely not yield different results.
 - The book offers various solutions to avoid common system traps: tragedy of the commons, policy resistance, drift to low performance, escalation, shifting the burden to the intervenor (e.g. modern medicine shifts responsibility for health from individual to healthcare systems), success to the successful (competitive exclusion), rule beating, seeking the wrong goal
 
 ### Key Quotes
