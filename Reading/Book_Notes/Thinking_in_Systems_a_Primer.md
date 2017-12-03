@@ -84,4 +84,3 @@ On monitoring systems:
 Decent basic introduction to systems thinking and its terminology. Would have appreciated more sophisticated examples of applied systems thinking; all the ones in the book were rather simple and systems wouldn't require any particular system thinking tools to understand them.
 
 The last part of the book, on how to change systems was the most valuable to me. It describes interesting system traps as well as leverage points for changing systems.
-
