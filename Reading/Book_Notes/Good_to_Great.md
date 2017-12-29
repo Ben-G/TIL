@@ -97,3 +97,13 @@ Similar to Dalio's "Meaningful work"
 > One particularly useful mechanism for moving the process along is a device that we came to call the Council. The Council consists of a group of the right people who participate in dialogue and debate guided by the three circles, iteratively and over time, about vital issues and decision facing the organization.
 
 > The Council does not seek consensus, recognizing that consensus decisions are ofthen at odds with intelligent decisions. The responsibility for the final decision remains with the leading executive.
+>
+
+### A Culture of Discipline
+
+Discipline >> Bureaucracy; most companies add bureaucracy to deal with a small percentage of their team that shouldn't be "on the bus".
+
+Being radically honest about your performance is critical, don't editorialize:
+
+> You can change your plans through the year, but you never change what you measure yourself against. You are rigorous at the end of the year, adhering exactly to what you said was going to happen. You don’t get a chance to editorialize.
+
