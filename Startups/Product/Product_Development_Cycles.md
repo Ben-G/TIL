@@ -12,3 +12,5 @@ https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae
 
   - > No. We don’t measure efficiency, compare actuals vs. estimates. We have six weeks to get something done. However a team decides to get it done during that time is up to them.
 
+- No dedicated PM role (team is small enough that founders can define product/strategy; entire team can propose features)
+

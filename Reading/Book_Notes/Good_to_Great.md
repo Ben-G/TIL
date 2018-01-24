@@ -101,9 +101,23 @@ Similar to Dalio's "Meaningful work"
 
 ### A Culture of Discipline
 
-Discipline >> Bureaucracy; most companies add bureaucracy to deal with a small percentage of their team that shouldn't be "on the bus".
+**Discipline >> Bureaucracy**; most companies add bureaucracy to deal with a small percentage of their team that shouldn't be "on the bus".
 
 Being radically honest about your performance is critical, don't editorialize:
 
 > You can change your plans through the year, but you never change what you measure yourself against. You are rigorous at the end of the year, adhering exactly to what you said was going to happen. You don’t get a chance to editorialize.
+
+> **Indeed, a great company is much more likely to die of indigestion from too much opportunity than starvation from too little. The challenge becomes not opportunity creation, but opportunity selection.**
+
+> Those who built the good-to-great companies, however, made as much use of “stop doing” lists as “to do” lists. They displayed a remarkable discipline to unplug all sorts of extraneous junk.
+
+> we learned that “being right” just isn’t that hard if you have all the pieces in place. If you have Level 5 leaders who get the right people on the bus, if you confront the brutal facts of reality, if you create a climate where the truth is heard, if you have a Council and work within the three circles, if you frame all decisions in the context of a crystalline Hedgehog Concept, if you act from understanding, not bravado—if you do all these things, then you are likely to be right on the big decisions. The real question is, once you know the right thing, do you have the discipline to do the right thing and, equally important, to stop doing the wrong things?
+
+### Technology Accelerators
+
+For most purposes technology is just a tool that should be applied to an already existing strategy. Very few companies have a new technology at the core of their strategy.
+
+> Does the technology fit directly with your Hedgehog Concept? If yes, then you need to become a pioneer in the application of that technology. If no, then ask, do you need this technology at all? If yes, then all you need is parity. (You don’t necessarily need the world’s most advanced phone system to be a great company.) If no, then the technology is irrelevant, and you can ignore it
+
+> If a technology doesn’t fit squarely within their three circles, they ignore all the hype and fear and just go about their business with a remarkable degree of equanimity. However, once they understand which technologies are relevant, they become fanatical and creative in the application of those technologies.
 

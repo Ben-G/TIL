@@ -16,3 +16,6 @@
 
   - [Why Scrum Sprints Slow you Down](https://medium.com/@__tosh/why-scrum-sprints-slow-you-down-3f33dba6f583)
 
+- [Good Agile / Bad Agile](http://steve-yegge.blogspot.de/2006/09/good-agile-bad-agile_27.html?m=1)
+
+
