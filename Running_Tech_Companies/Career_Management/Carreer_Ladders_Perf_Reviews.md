@@ -1,0 +1,3 @@
+- Performance reviews at BuzzFeed: http://blog.capwatkins.com/a-review-process
+- Carreer Ladder at Patreon: https://levels.patreon.com/
+- Building a carreer growth framework: https://blog.songkick.com/building-a-growth-framework-2464435e9e46

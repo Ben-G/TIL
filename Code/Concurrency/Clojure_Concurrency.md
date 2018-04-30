@@ -30,3 +30,4 @@ Clojure provides three lock free types that allow concurrently modifying values,
 
 General theme: concurrency and mutation via compare & swap is easier in Clojure because most data types are immutable (persistent data structures)
 
+https://8thlight.com/blog/aaron-lahey/2016/07/20/relationship-between-clojure-functions-symbols-vars-namespaces.html

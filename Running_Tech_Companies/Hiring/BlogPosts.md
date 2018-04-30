@@ -5,3 +5,10 @@
 - Aaron Swartz on Hiring (currently my favorite post): http://www.aaronsw.com/weblog/hiring
 - Hiring is Broken and not worth fixing: http://www.daedtech.com/hiring-is-broken/
   - Discusses that probably time invested in interviewing is not worth it; build good network instead
+- [Why Buffer doesn't use technical interviews](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
+  - Essentially, we now have four culture interviews. Here’s the general structure of our new ‘technical’ interviews.
+    - Candidate describes their background, how they grew up, how they learned to code, and lessons they’ve learned along the way.
+    - A series of culture-focused questions based on how [Buffer values](http://www.slideshare.net/Bufferapp/buffer-culture-04) apply to their lives and personal development philosophy.
+    - A code walkthrough, in which they choose anything that they’ve written that they are proud of and discuss with me. I’ll usually ask simple questions of why they’ve decided to design it this way, and what other implications they’ve had to think about while writing this snippet of code.
+    - Q/A for the candidate to ask me questions.
+

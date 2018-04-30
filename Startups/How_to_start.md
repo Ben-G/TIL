@@ -1,0 +1,1 @@
+- How to decide what to build? https://dcgross.com/decide-what-to-build/
