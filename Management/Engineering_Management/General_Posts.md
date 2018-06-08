@@ -12,3 +12,20 @@ https://medium.com/hubspot-product/why-our-engineering-leaders-focus-on-product-
 
 > We believe that a predictable, reliable engineering team that builds the wrong thing is not a success. The engineering leader (and the engineers themselves) have to feel ownership and responsibility around *what* they are building, not just *how* they are building it.
 
+
+
+Decision making at Coinbase (formalizes many of the decision making best practices I've tried to incorporate):
+
+- https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9
+
+
+
+Team reviews (Engineering at Mailchimp), good tool for manager of managers: 
+
+- https://medium.com/@marcprecipice/team-reviews-4b395bee61c9
+
+
+
+Good overview of all things involved in being a manager:
+
+- https://getweeklyupdate.com/manager-guide
