@@ -18,3 +18,43 @@
 - >  This is the domain of complexity theory. Emergent patterns can be *perceived*, but not *predicted*, a phenomenon called ***retrospective coherence***. And this combination of perception without the ability to predict can get us into all sorts of troubles if we confuse the two
 
 - We can end up creating procedures that worked great against historical scenarios, but might not work well in future
+
+
+
+### [Debugging with intelligence via probabilistic inference](https://blog.acolyer.org/2018/06/19/debugging-with-intelligence-via-probabilistic-inference/)
+
+- Paper outlines a debugging support tool that leverages probabilistic inference to determine the root cause of a failing test
+- Test with 16 participants, randomly split into two groups showed 34% improvement in debugging speed
+- Tool uses a constraint-solving approach that leverages encoded human knowledge around likelihood of issues in certain pieces of code (e.g. large functions are more likely to be cause of issue than small ones)
+
+### [Deep Code Search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
+
+- Demonstrates use of deep learning for code search
+
+- Uses first sentence of comment + code and generate an [embedding for each of them.](https://en.wikipedia.org/wiki/Word_embedding) The goal is to generate similar embeddings for both comment & code. 
+
+  - > We don’t want just any old embedding though. We want to learn embeddings such that code snippets (think of them like ‘code sentences’ for now, we’ll get to the details shortly) and their corresponding descriptions have nearby embeddings.
+    >
+    > > Joint Embedding, also known as multi-model embedding, is a technique to jointly embed/correlate heterogeneous data into a unified vector space so that semantically similar concepts across the two modalities occupy nearby regions of the space.
+
+- Cool, [longer form tutorial](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c) that is linked from the the comments section on how to implementic semantic code search using multi-model embedding.
+
+  - That in turn links to an apparently [very pragmatic AI course](http://course.fast.ai/). Should take that one!
+
+### [Debugging data flows in reactive programs](https://blog.acolyer.org/2018/06/29/debugging-data-flows-in-reactive-programs/)
+
+- Shows the ideas behind the creation of [RxFiddle](https://rxfiddle.net/) an interactive marble debugger for RxJS code.
+
+
+
+Web app perf
+
+- Touches on soom good issues with ORMs. One part, from the summary that I fully agree with:
+
+  - > Note that fundamentally a lot of the issues stem from the fact that the ‘O’ in ORM could just as easily stand for ‘Opaque.’
+
+- Study takes popular, large open source projects written in Rails from GitHub and performs automated load testing on them. It identifies the pages that load the slowest and profiles them. In many cases a significant amount of time is spent in the ORM/DB layer. 
+
+- The authors categories all perf issues they find + issues from bug trackers resuling in three main categories: ORM API misuse, database design, and application design.
+
+- Authors built a static analyzer to find some of these issues: https://hyperloop-rails.github.io/docs/home/
