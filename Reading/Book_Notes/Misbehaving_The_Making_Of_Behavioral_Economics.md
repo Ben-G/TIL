@@ -122,6 +122,8 @@ First experience of resistance from traditional economists
 
 ### 7. Bargains and Rip-Offs
 
+Tversky introduces the idea of transaction utility (in addition to the existing acquisition utility) to how folks evaluate potential purchases and determine their value.
+
 - > If you understand opportunity costs and you have a ticket to a game that you could sell for USD 1,000 , it does not matter how much you paid for the ticket . The cost of going to the game is what you could do with that USD 1,000 . You should only go to the game if that is the best possible way you could use that money . Is it better than one hundred movies at USD 10 each ? [...] Still , anyone who tried to make every decision in this manner would be paralyzed . How can I possibly know which of the nearly infinite ways to use $ 1,000 will make me happiest ?
 
 - Tverskys model for evaluating purchases
@@ -129,6 +131,98 @@ First experience of resistance from traditional economists
   - "Eventually I settled on a formulation that involves two kinds of utility : **acquisition utility** and **transaction utility**."
     - Acquisition utility: traditional measure of value. "suggests, it is the surplus remaining after we measure the utility of the object gained and then subtract the opportunity cost of what has to be given up."
     - Transaction utility: "It is defined as the difference between the price actually paid for the object and the price one would normally expect to pay, the reference price. Suppose you are at a sporting event and you buy a sandwich identical to the one you usually have at lunch, but it costs triple the price. The sandwich is fine but the deal stinks. It produces negative transaction utility, a **“rip-off.”** In contrast, if the price is below the reference price, then transaction utility is positive, a **“bargain,”** like Maya’s extra-large quilt selling for the same price as a smaller one."
+
+- **Another favorite:** Transaction utility of buying a beer while lying at the beach and friend either gets it from a fancy store or rundown liquor store
+
+  - The variations appear in parentheses and brackets. 
+  - *You are lying on the beach on a hot day. All you have to drink is ice water. For the last hour you have been thinking about how much you would enjoy a nice cold bottle of your favorite brand of beer. A companion gets up to go make a phone call and offers to bring back a beer from the only nearby place where beer is sold **(a fancy resort hotel) [a small, rundown grocery store]**. He says that the beer might be expensive so asks how much you are willing to pay for the beer. He says he will buy the beer if it costs as much or less than what you state. But if it costs more than the price you state, he will not buy it. You trust your friend, and there is no possibility of bargaining with the **(bartender) [store owner]**. What price will you tell him?*
+  - The median answers, adjusted for inflation, **were USD 7.25 and USD 4.10** (for same beer!).
+  - Crucially , the **consumption act is identical in the two situations** . The respondent gets to drink one bottle of his favorite brand of beer on the beach . He never enters or even sees the establishment from which the beer has been purchased , and thus does not consume any ambience , positive or negative .
+  - "In economists ’ lingo , the situation is **incentive compatible** ." (But factually they are quite obviously not)
+  - "Why do the respondents care where the beer was bought ? One reason is expectations . People expect prices to be higher at a fancy hotel , in part because the costs are quite obviously higher . Paying seven dollars for a beer at a resort is annoying but expected ; paying that at a bodega is an outrage ! This is the essence of transaction utility . **Econs do not experience transaction utility** . For them , the purchase location is another supposedly irrelevant factor , or SIF"
+  - "For those who are at least living comfortably, negative transaction utility can prevent our consuming special experiences that will provide a lifetime of happy memories, and the amount by which the item was overpriced will long be forgotten. Good deals, on the other hand, can lure all of us into making purchases of objects of little value. Everyone has items in their closets that are rarely worn but were “must buys” simply because the deal was too good, and of course somewhere in the garage or attic is our version of Maya’s quilt. [Example of woman buying oversized quilt, too big for her bed, because it was as cheap as a smaller one...]"
+
+- On store discounts
+
+  - > If a retailer known for frequent discounting tries to wean their customers away from expecting great deals , it can struggle . Several retailers have tried over the years to entice customers with something called “ everyday low pricing , ” but these experiments usually fail
+
+  - **In 2012 less than 1% of JC Penney's revenues came from full-price transactions**
+
+
+
+### 8. Sunk Costs
+
+- > Vince paid $ 1,000 to an indoor tennis club that entitled him to play once a week for the indoor season . After two months he developed tennis elbow , which made playing painful . He continued to play in pain for three more months because he did not want to waste the membership fee . He only stopped playing when the pain became unbearable.
+
+- >  Paying USD 100 for a ticket to a concert that you do not attend feels a lot like losing USD 100 . To continue the financial accounting analogy , **when you buy the ticket and then fail to use it you have to “ recognize the loss ” in the mental books you are keeping . Going to the event allows you to settle this account without taking a loss .**
+
+- Gourville and Soman found that attendance at the club jumps the month after the bill arrives , then tails off over time until the next bill arrives . They called this phenomenon “ payment depreciation , ” meaning that the effects of sunk costs wear off over time .
+
+- **Another favorite example:** "A similar result was found by psychologist Hal Arkes, now at Ohio State University, who conducted a nice experiment with his graduate student Catherine Blumer. Students who were in line to buy season tickets to a campus theater company were randomly chosen to receive either a small or large discount on the purchase price. An important feature of the design of this experiment is that customers were already committed to make the purchase at full price before they got their discount, so experimenters could presume that the subjects who paid a discounted price valued the product as much as those who paid full price. Arkes and Blumer found that sunk costs did matter, but only for one semester. **Those who paid full price went to more events in the fall semester, but by the spring attendance was the same across the three groups; apparently the students had gone to enough plays to feel they had gotten their money’s worth, or had just forgotten the original purchase altogether. So sunk costs matter, at least for a while, but may be forgotten eventually.**"
+
+- On the interesting wine experiments: 
+
+  - One, a retired engineer, wrote: “I understand that, emotion aside, replacement cost is relevant for economic decisions. However, my ideal feeling will be if my ’89 and ’90 futures increase enough in value to sell half for my total cost and drink the balance with only pleasure in mind, not money. [...] You see what he is saying? If the wine doubles in value and he sells half, then he can drink the rest as “free.” Brilliant! This ploy will make each bottle he drinks render considerable transaction utility.” [Same strategy I pursue, e.g. with Ethereum holdings :)]
+
+  - > some inconsistent thinking going on . I**t can’t be right that acquiring the wine is just an “ investment ” and the later consumption of the wine either costs nothing or saves money . Surely the support of an expensive wine drinking habit must involve spending money at some point !** Eldar and I published a paper on this , with a title that fully summarizes the findings : **“ Invest Now , Drink Later , Spend Never . ”**
+
+  - > There is an interesting side note to this experiment . The lottery offering up the $ 75 bottle of wine generated 178 respondents from a relatively affluent group of readers . That is 42 cents per reply , and they had to pay their own postage ! **If you want to get people to do stuff , lotteries can be very effective motivation .**
+
+- On sunk costs and the authors inability to simply delete paragraphs he wrote that didn't make it into the book (and how to work around these mental issues):
+
+  - > Merely having a place where these pieces are stored in a folder on my computer labeled “ outtakes ” has been enough to reduce the pain of cutting some of my favorite passages , a pain that can hurt as much as wearing those expensive , ill - fitting shoes . The bigger lesson is that once you understand a behavioral problem , you can sometimes invent a behavioral solution to it . Mental accounting is not always a fool’s game.
+
+
+
+### 9. Buckets & Budgets
+
+Why money is less fungible than traditional economists think.
+
+- "The existence of budgets can violate another first principle of economics : money is fungible , meaning that it has no labels restricting what it can be spent on."
+
+- People put money in a "Gas bucket". If gas prices go down they don't spend that money on something else; but unfortunately spend it on more expensive gas instead...
+
+  - > **The shift toward higher grades of gasoline was fourteen times greater than would be expected in a world in which money is treated as fungible** .
+
+- Impact of tax incentives, low interest rates and mortage brokers on the change of treating home equity as a "safe" mental account that shouldn't be touched
+
+  - > When the housing bubble arrived and drove up prices, homeowners were told they could lower their mortgage payment and take out a bit of extra cash too, to refinish the basement and buy a big-screen television. At this point, home equity ceased to be a “safe” mental account. This fact is illustrated by a change in the borrowing behavior of households with a head that is aged seventy-five or older. In 1989 only 5.8% of such families had any mortgage debt. By 2010, the fraction with debt rose to 21.2%. For those with mortgage debt, the median amount owed also rose over this period, from $35,000 to $82,000 (in 2010 dollars).
+
+- > **Like most aspects of mental accounting , setting up non - fungible budgets is not entirely silly** . Be it with mason jars , envelopes , or sophisticated financial apps , a household that makes a serious effort to create a financial plan will have an easier time living within its means . The same goes for businesses , large or small . But sometimes those budgets can lead to bad decision - making , such as deciding that the Great Recession is a good time to upgrade the kind of gasoline you put in your car .
+
+
+
+### 10. At the Poker Table
+
+My money vs. house money and other mental accounting quirks.
+
+- "Losing money in the poker account only changes behavior while you are still playing poker . This situation , in which a person is “ behind ” in a particular mental account , is tricky to handle in prospect theory , something Kahneman and Tversky knew well .""
+
+- "My impression was that players who were behind were attracted to small bets that offered a slim chance for a big win ( such as drawing to an inside straight ) but disliked big bets that risked a substantial increase to the size of their loss , even though they offered a higher probability of breaking even ."
+
+- On "house money":
+
+  - > you may see what I call “two-pocket” mental accounting. Take a player who has brought USD 300 to the casino to bet, and finds himself up USD 200 early in the evening. He will put USD 300 into one pocket and think of that money as his own money, and put the USD 200 worth of chips he has won in a different pocket (or more likely, on the table, ready to bet). When it comes to “house money,” the expression “easy come, easy go” applies.
+
+- On problem described on page 83:
+
+  - >  Instead of the simple prediction from prospect theory that people will be risk-seeking for losses, in problem 2 a loss of $30 does **not generate risk-taking preferences when there is no chance to break even.‡ But when given that chance, in problem 3, a majority of the subjects opt to gamble.**
+
+- "Once you recognize the **break-even effect** and the **house money effect** , it is easy to spot them in everyday life ."
+
+- > **Gambling when behind in an effort to break even can also be seen in the behavior of professional investors** . Mutual fund portfolio managers take more risks in the last quarter of the year when the fund they are managing is trailing the benchmark index ( such as the S & P 500 ) to which their returns are compared .
+
+- > A good rule to remember is that people who are threatened with big losses and have a chance to break even will be unusually willing to take risks , even if they are normally quite risk averse . Watch out !
+
+
+
+## III Self-Control: 1975-88
+
+### 11. Willpower? No Problem
+
+
+
+### 
 
 
 
