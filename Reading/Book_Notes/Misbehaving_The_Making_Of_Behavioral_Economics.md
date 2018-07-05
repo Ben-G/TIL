@@ -194,7 +194,7 @@ Why money is less fungible than traditional economists think.
 
 ### 10. At the Poker Table
 
-My money vs. house money and other mental accounting quirks.
+My money vs. house money and the break-even effect.
 
 - "Losing money in the poker account only changes behavior while you are still playing poker . This situation , in which a person is “ behind ” in a particular mental account , is tricky to handle in prospect theory , something Kahneman and Tversky knew well .""
 
@@ -220,7 +220,15 @@ My money vs. house money and other mental accounting quirks.
 
 ### 11. Willpower? No Problem
 
+On the impact of willpower on rational decision making.
 
+- > Although it is never stated explicitly as an assumption in an economics textbook, in practice **economic theory presumes that self-control problems do not exist**.
+
+- > The famous Chicago economist George Stigler was fond of saying that there was nothing new in economics ; Adam Smith had said it all . The same can be said of much of behavioral economics .
+
+  - One of Smith's ideas: how people discount future consumption (myopic, shortsighted behavior)
+
+  - > **“ The pleasure which we are to enjoy ten years hence , interests us so little in comparison with that which we may enjoy to - day .”**
 
 ### 
 
