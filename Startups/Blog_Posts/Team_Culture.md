@@ -1,0 +1,1 @@
+Good write-up of different stages of a team: http://eleganthack.com/design-the-team-you-need-to-succeed/
