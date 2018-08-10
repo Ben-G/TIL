@@ -1,0 +1,1 @@
+Building high performing teams: http://eleganthack.com/design-the-team-you-need-to-succeed/
