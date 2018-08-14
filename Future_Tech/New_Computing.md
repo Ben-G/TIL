@@ -14,4 +14,5 @@
   - Since observers of quantum based communication would observe atoms, they would force the atom out of a superposition into a specific state. This effect can be observed on the communication channel and the communication nodes can detect that s/o is eavesdropping
   - *Decoherence time*: time it takes for superposition state on an atom to disappear: gives information about interaction between quantum objects [and is essential for quantum computing](https://en.wikipedia.org/wiki/Quantum_superposition).
   - [Quantummadeeasy.com](http://toutestquantique.fr/en/) provides nice visualtions.
-
+- https://www.bloomberg.com/news/articles/2018-08-07/quantum-computers-today-aren-t-very-useful-that-could-change
+  - News coverage for Rigetti computing
