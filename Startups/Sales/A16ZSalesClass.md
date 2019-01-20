@@ -91,3 +91,7 @@
 -----
 
 - Should do some math on what it takes to get to 3x/5x sales person comp in different market segments
+
+
+
+-> This provides another good overview of sales topics: https://www.insidespin.com/sales-topics.php
