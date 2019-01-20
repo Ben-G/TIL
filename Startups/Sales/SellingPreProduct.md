@@ -1,0 +1,1 @@
+Good article on selling pre-product: https://yourfirstcustomers.com/the-5-step-formula-for-effectively-pre-selling-your-product-to-your-audience/
