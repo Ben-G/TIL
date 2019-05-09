@@ -1,0 +1,1 @@
+- Mixins in TypeScript: https://mariusschulz.com/blog/typescript-2-2-mixin-classes

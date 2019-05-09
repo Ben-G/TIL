@@ -1,0 +1,5 @@
+- Postguard, looks like great tool for static analysis of SQL queries: https://github.com/andywer/postguard
+- Percentiles in Postgres: http://leafo.net/guides/postgresql-calculating-percentile.html
+- Histograms in Postgres: https://tapoueh.org/blog/2014/02/postgresql-aggregates-and-histograms/
+- Making data pretty in postgres: https://www.compose.com/articles/metrics-maven-making-data-pretty-in-postgresql/
+- Standard deviation in postgres: https://www.gab.lc/articles/average_ignoring_extremes_outliers/
