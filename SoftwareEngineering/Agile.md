@@ -18,4 +18,9 @@
 
 - [Good Agile / Bad Agile](http://steve-yegge.blogspot.de/2006/09/good-agile-bad-agile_27.html?m=1)
 
+- Scrum is Fragile:
+
+  - [http://www.dennisweyland.net/blog/?p=43](http://www.dennisweyland.net/blog/?p=43)
+  - Decent post (content is so-so), but 100% agree with the core premise
+
 
