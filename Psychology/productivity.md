@@ -1,0 +1,2 @@
+- [Why you're resistant to being productive](https://listed.standardnotes.org/@mo/408/why-you-re-resistant-to-being-productive)
+  - Sweet, short post making some good points on requirements for being productive (e.g. kowing next step after current, connecting work to a clear goal)
