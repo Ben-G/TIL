@@ -24,3 +24,4 @@
 
 - VC is not only for tech. Other well known VC-backend companies include: Staples, Home Depot, Starbucks, and Blue Bottle Coffee.
 - VC as an overall asset class is weak, "as recently as 2017, the median ten-year returns in VC were 160 basis points below those of Nasdaq". But VC returns follow a power-law curve. Best funds significantly outperform major indexes. VCs that outperform tend to benefit from signalling and subequent network effects; e.g. best startups are trying to get investment from brand investors.
+

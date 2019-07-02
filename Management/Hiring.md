@@ -1,0 +1,1 @@
+Good general post on hiring: https://carta.com/blog/how-to-hire/
