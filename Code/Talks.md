@@ -1,4 +1,9 @@
-#iOS
+# General
+
+- [Want to watch] Excel tips from Joel Spolsky: https://www.youtube.com/watch?v=0nbkaYsR94c
+
+# iOS
+
 - [Backend Driven Native UIs](https://code.facebook.com/posts/1566627733629653/mobile-scale-london-recap/), Mobile @ Scale 2016
 - Great discussion of component driven UIs at Spotify
   - Demonstrates how UIs are build from declarative descriptions that can be serialized 
@@ -13,7 +18,8 @@
   - Discusses a synchronization mechanism that's an alternative to Operational Transformation 
   - Interesting related blog post: http://codebrief.com/2013/08/client-sync-for-the-rest-of-us/ 
 
-#SE
+# SE
+
 - [Thinking above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q), Microsoft Research, 2014
   - Discusses interesting aspects of importance of specs & proofs
 - [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0), Strange Loop, 2014
