@@ -4,4 +4,6 @@
 - Making data pretty in postgres: https://www.compose.com/articles/metrics-maven-making-data-pretty-in-postgresql/
 - Standard deviation in postgres: https://www.gab.lc/articles/average_ignoring_extremes_outliers/
 - Good blog post on pagination in Postgres: https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/
+- Temporal tables in postgres: https://clarkdave.net/2015/02/historical-records-with-postgresql-and-temporal-tables-and-sql-2011/
+  - Good read for how to handle analytics on historical data
 
