@@ -1,0 +1,1 @@
+Good guide to running untrusted code in Node: https://www.freecodecamp.org/news/running-untrusted-javascript-as-a-saas-is-hard-this-is-how-i-tamed-the-demons-973870f76e1c/
