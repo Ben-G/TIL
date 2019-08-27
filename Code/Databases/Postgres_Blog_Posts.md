@@ -16,3 +16,5 @@
 
   - Related: https://wiki.postgresql.org/images/6/64/Fosdem20150130PostgresqlTemporal.pdf
 
+- Building Queues on Postgres:
+  - https://gist.github.com/chanks/7585810 
